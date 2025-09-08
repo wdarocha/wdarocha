@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wagner
+# 👋 Hi, I'm Wagner da Rocha
 
 - 🔬 Postdoctoral researcher at [IMECC](https://www.ime.unicamp.br/)/[UNICAMP](https://unicamp.br/)
 - 💻 Working on distance geometry and protein structure determination
