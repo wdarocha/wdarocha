@@ -9,4 +9,4 @@
 
 ## 🔗 Links
 - [Personal Website](https://ime.unicamp.br/~wdarocha)
-- [Google Scholar]([https://scholar.google.com/citations?user=4s1PiuAAAAAJ&hl](https://scholar.google.com/citations?user=4s1PiuAAAAAJ&hl))
+- [Google Scholar](https://scholar.google.com/citations?user=4s1PiuAAAAAJ&hl)
