@@ -18,9 +18,6 @@
 - [pdb-parser](https://github.com/wdarocha/pdb-parser)  
   Python toolkit for processing PDB structures and generating distance-geometry instances.
 
-- [dg-thesis-code](https://github.com/wdarocha/dg-thesis-code)  
-  Historical MATLAB code associated with my PhD thesis on distance geometry and protein structure reconstruction.
-
 - [benchmarks](https://github.com/wdarocha/benchmarks)  
   Benchmark and experiment data associated with my research repositories.
 
